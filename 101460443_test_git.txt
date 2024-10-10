@@ -1,3 +1,4 @@
 "This is the file to test the connection of git from my branch 10146044-RyanTran"
-If the connection works, I will pus then test and push again
+If the connection works, I will push then test and push again
+The test file pushed, connection worked
 comp3104 - Devops
