@@ -1,1 +1,7 @@
 COMP 3104 DevOps is a course that teaches students about the principles and practices of DevOps, focusing on continuous integration, continuous delivery, and automation of the software development process.
+
+Core Principles of DevOps
+Collaboration: Encourages communication and collaboration between development, operations, and other stakeholders.
+Automation: Automates repetitive tasks like testing, deployment, and infrastructure management to enhance efficiency and reduce errors.
+Continuous Integration (CI): Merges code changes into a central repository frequently, allowing teams to detect issues early.
+Continuous Delivery (CD): Ensures that software can be reliably released at any time by automating deployment processes.
