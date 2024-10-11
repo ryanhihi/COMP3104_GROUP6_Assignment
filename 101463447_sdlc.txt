@@ -3,8 +3,6 @@ Learning DevOps is crucial in the software development life cycle (SDLC) because
 Integration of DevOps with Agile Methodologies
 DevOps and Agile methodologies work together to enhance the software development lifecycle (SDLC) by focusing on speed, quality, and collaboration.
 
-Collaboration: DevOps extends Agile's cross-functional team approach by integrating operations, fostering transparency and shared responsibility throughout the development process.
-
 Continuous Feedback: Agile promotes rapid feedback cycles, while DevOps implements continuous integration and delivery (CI/CD), allowing for quicker adjustments based on user feedback.
 
 Automation: DevOps automates testing, deployment, and monitoring, streamlining Agile processes and reducing manual errors, enabling teams to focus on strategic tasks.
