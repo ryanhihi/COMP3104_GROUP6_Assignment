@@ -1,0 +1,5 @@
+DevOps is a combination of development (Dev) and operations (Ops). The combinations of both 
+teams and practices leads to improved collaboration, efficiency, and value in deliveries. 
+The COMP3104 DevOps course is intended to give us students knowledge of effective DevOps 
+techniques. We are gaining experience with some of the tools used in industry, as well as 
+being shown expectations for roles of various staff and engineers working in development.
