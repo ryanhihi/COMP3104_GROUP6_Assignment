@@ -1,9 +1,0 @@
-The Software Development Life Cycle (SDLC) is a methodology with clearly defined 
-processes for the development of software. A well structured framework with 
-explicit deliverables at each stage helps reduce risks, shorten work time, lower 
-costs, and overall improve quality.
-
-Understanding the processes and benefits of the SDLC is crucial when entering 
-industry for smooth integration into professional environments with experienced
-team members. Being able to apply these principles and practice with the tools used
-gives an advantage when first starting in any new software development job.
