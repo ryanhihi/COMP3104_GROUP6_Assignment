@@ -3,7 +3,8 @@
 ## Group Members
 - **Leader:** Ryan Tran (101460443) - [GitHub](https://github.com/ryanhihi)
 - **Member :** Josephine Snyder (101150792) - [GitHub](https://github.com/Tacopocalyptic)
--
+- **Member :** Christian DO (101463447) - [GitHub](https://github.com/CDo101463447)
+- 
 -
 -
 
