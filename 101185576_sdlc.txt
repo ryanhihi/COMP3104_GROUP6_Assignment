@@ -1,0 +1,1 @@
+DevOps increases product quality and reliability by combining testing, validation, verification, security, performance, availability, scalability, and resilience at all stages of the software development process.
