@@ -5,7 +5,7 @@
 - **Member :** Josephine Snyder (101150792) - [GitHub](https://github.com/Tacopocalyptic)
 - **Member :** Christian DO (101463447) - [GitHub](https://github.com/CDo101463447)
 - **Member :** Jan Carag (101185576) - [GitHub](https://github.com/Caragj-001)
-- **Member :** Troy Joshua Del Rosario (101451624) - [GitHub](https://github.com/JoshiTroy)1)
+- **Member :** Troy Joshua Del Rosario (101451624) - [GitHub](https://github.com/JoshiTroy)
 -
 
 ## Project Description
